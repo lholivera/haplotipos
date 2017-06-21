@@ -14,5 +14,5 @@ Funciona escribiendo en el código los nombres de los archivos a utilizar de ent
 
 Esta es la primera liberación pública como punto de partida para el desarrollo.
 
-Toda contribución es bienvenida bago GPLv3
+Toda contribución es bienvenida bajo licencia GPLv3
 
