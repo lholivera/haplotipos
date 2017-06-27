@@ -6,7 +6,7 @@ Este notebook de ipython es la primera versión operativa que resuelve a partir 
 y una (o muchas) secuencia objetivo, la determinación de qué par de secuencias de referencia explican mejor la secuencia objetivo,
 devolviendo un ranking de las mismas.
 
-De momento es la versión prototipo utilizada para resolver la tesis doctoral de la Dra. Laura Barrientos (poner referencia)
+De momento es la versión prototipo utilizada para resolver los haplotipos involucrados en la tesis doctoral de la Dra. Laura Barrientos (poner referencia)
 No se espera por el momento que pueda ser utilizado por terceros, hasta que no se haga user friendly :)
 Si necesita usar el software (y no logra hacerlo a partir del notebook) escriba a lholivera@gmail.com
 
