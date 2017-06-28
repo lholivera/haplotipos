@@ -16,3 +16,4 @@ Esta es la primera liberación pública como punto de partida para el desarrollo
 
 Toda contribución es bienvenida bago GPLv3
 
+Junio de 2017
