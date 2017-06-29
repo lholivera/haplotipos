@@ -6,11 +6,10 @@ Este notebook de ipython es la primera versión operativa que resuelve a partir 
 y una (o muchas) secuencia objetivo, la determinación de qué par de secuencias de referencia explican mejor la secuencia objetivo,
 devolviendo un ranking de las mismas.
 
-De momento es la versión prototipo utilizada para resolver los haplotipos involucrados en la tesis doctoral de la Dra. Laura Barrientos (poner referencia)
-No se espera por el momento que pueda ser utilizado por terceros, hasta que no se haga user friendly :)
-Si necesita usar el software (y no logra hacerlo a partir del notebook) escriba a lholivera@gmail.com
+De momento es la versión prototipo utilizada para resolver los haplotipos involucrados en la tesis doctoral de la Dra. Laura Barrientos (http://sedici.unlp.edu.ar/handle/10915/59531).
+Por el momento es un script que se ejecuta secuencialmente (requiere ipython notebook y algunas librerias) y hay que modificar en el codigo el nombre de los archivos que lee. En el repositorio hay archivos de ejemplo.
 
-Funciona escribiendo en el código los nombres de los archivos a utilizar de entrada, y usa nombres por defecto para la salida.
+Si necesita usar el software (y no logra hacerlo a partir del notebook) escriba a lholivera@gmail.com
 
 Esta es la primera liberación pública como punto de partida para el desarrollo.
 
